@@ -98,3 +98,8 @@ plt.ylabel("count")
 plt.show()
 
 
+
+output : <img width="987" height="778" alt="Image" src="https://github.com/user-attachments/assets/38147342-e5c2-4257-9342-3df8f03526d3" />
+<img width="790" height="666" alt="Image" src="https://github.com/user-attachments/assets/ac829929-a9c5-45bd-be53-86e5521b066a" />
+<img width="1237" height="1030" alt="Image" src="https://github.com/user-attachments/assets/5092825f-2e78-4177-b0cc-e3898b710837" />
+
